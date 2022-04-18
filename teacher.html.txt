@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teacher</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style1.css">
+
+</head>
+<body>
+    
+<div class="container">
+
+<header>
+
+    <a href="#" class="logo">Smart<span>Study</span></a>
+
+    <div id="menu" class="fas fa-bars"></div>
+
+    <nav class="navbar">
+        <a href="home.html">home</a>
+        <a href="course.html">course</a>
+        <a href="teacher.html">teacher</a>
+        <a href="price.html">price</a>
+    </nav>
+
+</header>
+
+<h1 class="heading"> Star teachers </h1>
+
+<!-- teacher section  -->
+
+<section class="teacher">
+
+    <div class="box">
+        <img src="images1/teacher-1.png" alt="">
+        <h3>Anushka Sharma</h3>
+        <span>Data Structure </span>
+        <p>Mastering Data Structures & Algorithms using C and C++
+            Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting..</p>
+        <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="images1/cus1.jpg" alt="">
+        <h3>Dilshad Khan</h3>
+        <span>Android Development</span>
+        <p>The Complete Android 12 & Kotlin Development Masterclass
+            Learn Android 12 App Development From Beginner to Advanced Developer. Build Apps like Trello</p>
+        <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="images1/teacher-3.png" alt="">
+        <h3>Priya Aggarwal</h3>
+        <span>Web Development</span>
+        <p>Become a Certified HTML, CSS, JavaScript Web Developer
+            Complete coverage of HTML, CSS, Javascript while you Earn Four Respected Certifications.</p>
+        <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="images1/teacher-4.png" alt="">
+        <h3>Aman Malhotra</h3>
+        <span>AI/ML</span>
+        <p>ML MASTER CLASS, AI MADE EASY (Zero to Hero!!)
+            In-depth approach to ML easing you into the basics of ML and making you a pro out of it in no time. </p>
+        <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+        </div>
+    </div>
+
+</section>
+
+<!-- footer section  -->
+
+<section class="footer">
+
+    <div class="box-container">
+
+        <div class="box">
+            <h3>about us</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, maxime!</p>
+        </div>
+
+        <div class="box">
+            <h3>quick links</h3>
+            <a href="#">home</a>
+            <a href="#">course</a>
+            <a href="#">teacher</a>
+            <a href="#">price</a>
+        </div>
+
+        <div class="box">
+            <h3>follow us</h3>
+            <a href="#">facebook</a>
+            <a href="#">twitter</a>
+            <a href="#">instagram</a>
+            <a href="#">linkedin</a>
+        </div>
+
+        <div class="box">
+            <h3>contact us</h3>
+           <p> <i class="fas fa-phone"></i> +91-9997679789 </p>
+           <p> <i class="fas fa-envelope"></i> aman@gmail.com </p>
+           <p> <i class="fas fa-map-marker-alt"></i> Noida, India - 123456 </p>
+        </div>
+
+    </div>
+
+    <div class="credit"> created by <span> Aman Malhotra </span> </div>
+
+</section>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- custom js file link -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
